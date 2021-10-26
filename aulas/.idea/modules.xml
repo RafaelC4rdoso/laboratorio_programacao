@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/aula01.iml" filepath="$PROJECT_DIR$/aula01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atividade-metodos/atividade-metodos.iml" filepath="$PROJECT_DIR$/atividade-metodos/atividade-metodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atividade-metodos/bomba-dagua.iml" filepath="$PROJECT_DIR$/atividade-metodos/bomba-dagua.iml" />
     </modules>
   </component>
 </project>
